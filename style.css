@@ -446,11 +446,12 @@ footer p {
 }
 
 .tag {
-  background-color: #d1e8da;
-  color: #daf5e4;
+  background-color: #eeefee;
+  color: #3c594a;
   border-radius: 5px;
   padding: 5px 10px;
   margin: 5px;
   font-size: 14px;
   font-weight: 500;
 }
+

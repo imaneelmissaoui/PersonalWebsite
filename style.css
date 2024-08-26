@@ -63,9 +63,10 @@ a:hover {
 }
 
 .logo img {
-    height: 40px;  /* Adjust the size of the logo to be smaller */
-    width: auto;   /* Keeps the aspect ratio */
-    margin-left: 10px; /* Adds a little space to the left */
+    height: 30px;  /* Make the logo smaller */
+    width: auto;   /* Keep the aspect ratio */
+    margin: 0;     /* No margin to make it flush with the top left */
+    padding: 5px 0; /* Add some padding to the top */
 }
 
 

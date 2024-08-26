@@ -62,7 +62,7 @@ a:hover {
     cursor: default;
 }
 
-.logo > a > img{
+.logo-img{
     height: 30px; 
     width: auto;   
     margin: 0;     

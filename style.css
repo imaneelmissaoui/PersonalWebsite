@@ -62,12 +62,11 @@ a:hover {
     cursor: default;
 }
 
-.logo a img{
-    height: 30px;  /* Make the logo smaller */
-    width: auto;   /* Keep the aspect ratio */
-    margin: 0;     /* No margin to make it flush with the top left */
-    padding: 5px 0; /* Add some padding to the top */
-}
+.logo > a > img{
+    height: 30px; 
+    width: auto;   
+    margin: 0;     
+    padding: 5px 0; 
 
 
 /* HAMBURGER MENU */
@@ -447,7 +446,7 @@ footer p {
 }
 
 .tag {
-  background-color: #8ab89c;
+  background-color: #dff2e6;
   color: #567a64;
   border-radius: 5px;
   padding: 5px 10px;

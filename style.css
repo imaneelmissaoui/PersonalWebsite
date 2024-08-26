@@ -58,17 +58,14 @@ a:hover {
   text-decoration-color: rgb(181, 181, 181);
 }
 
-.logo {
-  font-size: 2rem;
+.logo:hover {
+    cursor: default;
 }
 
-.logo:hover {
-  cursor: default;
-}
 .logo img {
-    height: 50px;  /* Adjust the height as needed */
+    height: 40px;  /* Adjust the size of the logo to be smaller */
     width: auto;   /* Keeps the aspect ratio */
-    display: block; /* Ensure it's displayed as a block element */
+    margin-left: 10px; /* Adds a little space to the left */
 }
 
 

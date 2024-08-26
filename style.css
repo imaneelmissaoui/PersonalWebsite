@@ -67,7 +67,7 @@ a:hover {
     width: auto;   
     margin: 0;     
     padding: 5px 0; 
-
+}
 
 /* HAMBURGER MENU */
 
@@ -446,8 +446,8 @@ footer p {
 }
 
 .tag {
-  background-color: #dff2e6;
-  color: #567a64;
+  background-color: #d1e8da;
+  color: #4a524d;
   border-radius: 5px;
   padding: 5px 10px;
   margin: 5px;
